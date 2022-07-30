@@ -1,0 +1,10 @@
+/.idea
+/.vscode
+.DS_Store
+/node_modules/
+/npm-debug.log
+/_site/
+/dist/
+/out-tsc/
+storybook-static
+custom-elements.json
